@@ -1,5 +1,5 @@
 # ![MakerGear Logo](https://cdn.shopify.com/s/files/1/0030/7372/files/mg_logo_colors_small.jpg) Ultra One Profiles for Simplify3D
-Official Repository of Simplify3D profiles for the MakerGear Ultra One 3D Printer. We're adding new materials continuously so check back frequently.
+~Official~ Beta Repository of Simplify3D profiles for the MakerGear Ultra One 3D Printer.
 
 ### Summary
 | Material | Single | Dual | Support | Duplication | Vase | Single |
